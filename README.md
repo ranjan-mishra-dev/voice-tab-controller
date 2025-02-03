@@ -6,6 +6,8 @@ With this, you can **open new tabs, navigate pages, scroll, bookmark sites, and 
 ![Extension Preview](https://via.placeholder.com/800x400?text=Voice+Tab+Controller)  
 *(Replace with actual screenshot)*  
 ![Alt text](Screenshot 2025-02-04 021448.png)
+![image](https://github.com/user-attachments/assets/2a3b7000-82dc-4738-9202-20d154d7db75)
+
 
 ---
 
