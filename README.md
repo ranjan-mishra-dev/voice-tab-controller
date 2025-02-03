@@ -34,7 +34,11 @@ With this, you can **open new tabs, navigate pages, scroll, bookmark sites, and 
 - 4️⃣ Watch it **execute actions automatically!** 🎉
 - 5️⃣ Click **"Stop Listening"** to disable voice recognition.
 
-[]image
+*Listening*
+![image](https://github.com/user-attachments/assets/47dd0f7d-f20d-4346-856d-dcfb0f786b9d)
+
+*Mic off*
+![image](https://github.com/ranjan-mishra-dev/voice-tab-controller/blob/main/Screenshot%202025-02-04%20021448.png?raw=true)
 
 ---
 
