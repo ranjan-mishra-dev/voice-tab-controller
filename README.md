@@ -9,15 +9,10 @@ With this, you can **open new tabs, navigate pages, scroll, bookmark sites, and 
 
 ## 📜 Table of Contents  
 - [✨ Features](#-features)  
-- [🛠 Installation](#-installation)  
 - [📌 How to Use](#-how-to-use)  
 - [🎤 Available Voice Commands](#-available-voice-commands)  
 - [⚙️ Project Structure](#-project-structure)  
 - [💡 How It Works](#-how-it-works)  
-- [🚀 Hosting on GitHub](#-hosting-on-github)  
-- [🤝 Contribution](#-contribution)  
-- [📜 License](#-license)  
-
 ---
 
 ## ✨ Features  
